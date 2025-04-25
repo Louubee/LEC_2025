@@ -1,0 +1,13 @@
+pandas
+matplotlib
+numpy
+json
+requests
+csv
+selenium
+time
+bs4
+urllib
+psycopg2
+streamlit
+os

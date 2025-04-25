@@ -28,9 +28,9 @@ Outil complet, permettant l'extraction, le stockage ainsi que l'analyse via une 
 
 
 
-## 👤 Auteur
+##  Lien
 
-- Louube
+- https://lec-players-comparaison.streamlit.app/
 
 ---
 
