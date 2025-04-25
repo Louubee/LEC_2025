@@ -1,11 +1,8 @@
 pandas
-matplotlib
+matplotlib==3.7.1
 numpy
 requests
 selenium
-time
 bs4
-urllib
 psycopg2
 streamlit
-os
