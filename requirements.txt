@@ -1,7 +1,6 @@
 pandas
 matplotlib
 numpy
-json
 requests
 csv
 selenium
