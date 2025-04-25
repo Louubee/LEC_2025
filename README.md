@@ -31,12 +31,8 @@ Outil complet, permettant l'extraction, le stockage ainsi que l'analyse via une 
 ## 👤 Auteur
 
 - Louube
-- GitHub: [@Louubee](https://github.com/Louubee)
 
 ---
-
-*Dernière mise à jour : [DATE]*
-
 
 
 
