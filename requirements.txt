@@ -1,4 +1,5 @@
 pandas
+pillow
 matplotlib==3.7.1
 numpy
 requests
