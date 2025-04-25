@@ -2,7 +2,6 @@ pandas
 matplotlib
 numpy
 requests
-csv
 selenium
 time
 bs4
