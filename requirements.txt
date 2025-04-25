@@ -1,9 +1,10 @@
+--upgrade pip
 pandas
 pillow
-matplotlib==3.7.1
+matplotlib==3.4.3
 numpy
 requests
 selenium
 bs4
-psycopg2
+psycopg2-binary
 streamlit
